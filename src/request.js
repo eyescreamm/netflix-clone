@@ -1,4 +1,4 @@
-const API_KEY = "630dcde4f1e21c4729ed21adfabb19a5"; // TMDBのAPIKeyを入れる
+const API_KEY = "630dcde4f1e21c4729ed21adfabb19a5" // TMDBのAPIKeyを入れる
 
 // named export import側で命名が変わらないように
 export const requests ={
